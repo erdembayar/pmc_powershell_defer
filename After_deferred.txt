@@ -1,0 +1,16 @@
+MVC+EF6 solution loaded: 719
+
+1. PMC open: 731MB
+Nuget.Packagement.UI
+NuGetConsole.Host.PowerShell.dll
+System.Management.Automation.ni.dll
+
+2.Powershell loaded due start typing:754MB
+Microsoft.PowerShell.Commands.Diagnostics.dll -> 89k
+Microsoft.PowerShell.Commands.Management.dll -> 573k
+Microsoft.PowerShell.Commands.Utility.dll -> 6.609k
+Microsoft.PowerShell.ConsoleHost.dll -> 199k
+Microsoft.PowerShell.Security.dll -> 91k
+NuGet.PackageManagement.PowerShellCmdlets.dll ->135k
+Microsoft.WSMan.Management.dll -> 274k
+Microsoft.MSMan.Runtime.ni.dll -> 14Kb

@@ -1,0 +1,51 @@
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\NuGet
+
+NuGet.Common.dll - 113k
+NuGet.Configuration.dll - 154k
+NuGet.Console.dll - 137k
+NuGet.PackageManagement.dll - 387k
+NuGet.PackageManagement.VisualStudio.dll - 580k
+NuGet.Packaging.dll - 651k
+NuGet.ProjectModel.dll - 208k
+NuGet.SolutionRestoreManager.dll - 1.674k
+NuGet.Versioning.dll - 51k
+NuGet.VisualStudio.Common.dll- 141
+NuGet.VisualStudio.Implementation.dll - 213k
+
+Nuget Common: 4.309k
+
+---------------------------------------------------
+NuGet.PackageManagement.PowerShellCmdlets.dll - 135k
+NuGet.PackageManagement.UI.dll - 780k
+Nuget.Resolver.dll -57k
+NuGet.Tools.dll - 100k
+NuGet.VisualStudio.Contracts.dll - 15k
+----NuGetConsole.Host.PowerShell.dll-110k
+----NuGet.Core.dll - 647k
+
+Microsoft.PowerShell.Commands.Diagnostics.ni.dll -> 319k
+Microsoft.PowerShell.Commands.Management.ni.dll -> 1.815k
+Microsoft.PowerShell.Commands.Utility.ni.dll -> 11.608k
+Microsoft.PowerShell.ConsoleHost.ni.dll -> 552k
+Microsoft.PowerShell.Security.ni.dll -> 319k
+
+Microsoft.WSMan.Management.dll -> 274k
+Microsoft.MSMan.Runtime.ni.dll -> 14Kb
+System.Management.Automation.ni.dll -> 26.504kb
+
+PowerShell only: 41.405k
+
+NuGet PMC Only: 42.492k
+NuGet PMC Total: 46.801k
+
+----------------
+Nomination Solution open:
+NuGet.Commands.ni.dll - 550k
+NuGet.DependencyResolver.Core.ni.dll - 90k
+NuGet.Frameworks.ni.dll- 119k
+Nuget.LibraryModel.ni.dll - 56k
+Nuget.VisualStudio.ni.dll - 35k
+
+Nomination only: 850k
+
+Nomination total: 4309+580= 5.159k

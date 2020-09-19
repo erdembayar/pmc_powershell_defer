@@ -1,0 +1,5 @@
+NuGet.Commands.ni.dll
+NuGet.DependencyResolver.ni.dll
+NuGet.Frameworks.ni.dll
+Nuget.LibraryModel.ni.dll
+Nuget.VisualSolution.ni.dll
